@@ -1,6 +1,6 @@
 # Genome Assembly Programming Challenge
 
-Genome Assembly Programming Challenge(https://www.coursera.org/learn/assembling-genomes).
+[Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes).
 
 ## Week 1 The 2011 European E. coli Outbreak
 
